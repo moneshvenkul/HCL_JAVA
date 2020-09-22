@@ -21,6 +21,9 @@ public class Student {
 		this.studentMarks = studentMarks;
 	}
 
+	/**
+	 * @return
+	 */
 	public int getStudentId() {
 		return studentId;
 	}

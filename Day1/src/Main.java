@@ -1,3 +1,7 @@
+/**
+ * @author mvven
+ *
+ */
 class Main {
 
 	public static void compare(Employee employee1, Employee employee2) {
