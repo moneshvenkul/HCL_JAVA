@@ -1,0 +1,20 @@
+class Employee {
+	int empNumber;
+	String empName;
+	int empSalary;
+
+	public void display() {
+		System.out.println("Employee Number : " + empNumber);
+		System.out.println("Employee Name : " + empName);
+		System.out.println("Employee Salary : " + empSalary);
+	}
+
+	public void update(String name) {
+		empName = name;
+		System.out.println("Employee Number : " + empNumber);
+		System.out.println("Employee Name : " + empName);
+		System.out.println("Employee Salary : " + empSalary);
+
+	}
+
+}

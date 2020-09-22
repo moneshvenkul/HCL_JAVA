@@ -1,0 +1,38 @@
+import java.util.*;
+import java.io.*;
+import java.time.LocalTime;
+import java.util.*;
+
+import java.util.SortedSet;
+
+import java.util.TreeSet;
+
+public class B{
+
+public static void main(String args[]) {
+
+	try
+
+	{
+
+	int var1 = 0;
+
+	int var2 = 5/x;
+
+	catch (Exception exception)
+
+	{
+
+	System.out.println("Exception");
+
+	catch (ArithmeticException ae)
+
+	{ System.out.println(" Arithmetic Exception");
+
+	}
+
+	System.out.println("Finished"):
+
+}
+
+}

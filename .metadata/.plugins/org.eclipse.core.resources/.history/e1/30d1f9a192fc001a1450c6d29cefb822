@@ -1,0 +1,28 @@
+class Main {
+
+	public static void compare(Employee employee1, Employee employee2) {
+		if (employee1.empSalary > employee2.empSalary) {
+			System.out.println(employee1.empName + " has bigger salary");
+		} else {
+			System.out.println(employee2.empName + " has bigger salary");
+		}
+	}
+
+	public static void main(String[] args) {
+		Employee employee1 = new Employee();
+		employee1.empNumber = 1;
+		employee1.empName = "Monesh";
+		employee1.empSalary = 5000;
+		employee1.display();
+		Employee employee2 = new Employee();
+		employee2.empNumber = 2;
+		employee2.empName = "Tony";
+		employee2.empSalary = 10000;
+		employee2.display();
+
+		compare(employee1, employee2);
+		employee1.update("venkul");
+
+	}
+
+}

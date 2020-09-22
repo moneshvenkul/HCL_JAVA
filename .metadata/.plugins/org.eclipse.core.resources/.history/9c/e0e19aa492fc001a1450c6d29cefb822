@@ -1,0 +1,34 @@
+class Employee {
+	private int empNumber;
+	private String empName;
+	private int empSalary;
+
+	public void display() {
+		System.out.println("Employee Number : " + empNumber);
+		System.out.println("Employee Name : " + empName);
+		System.out.println("Employee Salary : " + getEmpSalary());
+	}
+
+	public void update(String name) {
+		empName = name;
+		System.out.println("Employee Number : " + empNumber);
+		System.out.println("Employee Name : " + empName);
+		System.out.println("Employee Salary : " + getEmpSalary());
+
+	}
+
+	/**
+	 * @return the empSalary
+	 */
+	public int getEmpSalary() {
+		return empSalary;
+	}
+
+	/**
+	 * @param empSalary the empSalary to set
+	 */
+	public void setEmpSalary(int empSalary) {
+		this.empSalary = empSalary;
+	}
+
+}

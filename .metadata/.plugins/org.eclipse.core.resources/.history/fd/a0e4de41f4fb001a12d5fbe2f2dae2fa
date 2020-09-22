@@ -1,0 +1,15 @@
+import java.util.stream.Stream;
+
+public class B {
+
+public static void main(String args)X
+
+Stream.iterate(2, (Integer data) -> data*data)
+
+.limit(5)
+
+.forEach(System.out::println);
+
+}
+
+}

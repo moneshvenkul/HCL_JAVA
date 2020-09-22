@@ -1,0 +1,33 @@
+public class B {
+
+public static void handleException() {
+
+System.out.println("Exception Class ");
+
+throw new RuntimeException();
+
+}
+
+public static void main(String[] args) {
+
+try {
+
+System.out.print("Try ");
+
+handleException();
+
+} catch (Exception exception) {
+
+System.out.print("Catch ");
+
+} finally {
+
+System.out.print("Finally ");
+
+}
+
+System.out.println("End");
+
+}
+
+}

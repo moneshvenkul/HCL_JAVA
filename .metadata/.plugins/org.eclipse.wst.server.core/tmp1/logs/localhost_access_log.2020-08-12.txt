@@ -1,0 +1,5 @@
+127.0.0.1 - - [12/Aug/2020:08:36:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Aug/2020:08:36:54 +0530] "GET /UseCase_examples/ HTTP/1.1" 200 845
+0:0:0:0:0:0:0:1 - - [12/Aug/2020:08:39:41 +0530] "GET /UseCase_examples/login.jsp HTTP/1.1" 200 625
+0:0:0:0:0:0:0:1 - - [12/Aug/2020:08:39:45 +0530] "GET /UseCase_examples/index.jsp HTTP/1.1" 200 845
+0:0:0:0:0:0:0:1 - - [12/Aug/2020:08:40:20 +0530] "POST /UseCase_examples/home HTTP/1.1" 200 660
