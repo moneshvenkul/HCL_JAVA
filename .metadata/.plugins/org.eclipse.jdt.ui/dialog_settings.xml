@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Programs\eclipse-workspace"/>
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.8"/>
 	<item key="TypeHierarchyViewPart.hierarchyview" value="2"/>
@@ -76,5 +76,99 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_X_ORIGIN" value="560"/>
+		<item key="DIALOG_Y_ORIGIN" value="59"/>
+		<item key="DIALOG_WIDTH" value="818"/>
+		<item key="DIALOG_HEIGHT" value="698"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="javadoc">
+		<item key="javadoc_command_history" value="C:\Program Files\Java\jdk1.8.0_261\bin\javadoc.exe"/>
+		<item key="fromStandard" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="docletpath" value=""/>
+		<item key="access" value="private"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="version" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="splitindex" value="true"/>
+		<item key="noindex" value="false"/>
+		<item key="notree" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="openinbrowser" value="false"/>
+		<item key="source" value="1.8"/>
+		<item key="antpath" value="D:\Programs\eclipse-workspace\Streams\javadoc.xml"/>
+		<item key="destdir" value="D:\Programs\eclipse-workspace\Streams\doc"/>
+		<section name="projects">
+			<section name="RemoteSystemsTempFiles">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\RemoteSystemsTempFiles\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\RemoteSystemsTempFiles\javadoc.xml"/>
+			</section>
+			<section name="Day5_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day5_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day5_LabAssignment\javadoc.xml"/>
+			</section>
+			<section name="Day1">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day1\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day1\javadoc.xml"/>
+			</section>
+			<section name="Day3">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day3\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day3\javadoc.xml"/>
+			</section>
+			<section name="Day5">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day5\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day5\javadoc.xml"/>
+			</section>
+			<section name="Day6_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day6_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day6_LabAssignment\javadoc.xml"/>
+			</section>
+			<section name="Day1_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day1_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day1_LabAssignment\javadoc.xml"/>
+			</section>
+			<section name="Day2_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day2_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day2_LabAssignment\javadoc.xml"/>
+			</section>
+			<section name="Streams">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Streams\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Streams\javadoc.xml"/>
+			</section>
+			<section name="Day3_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day3_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day3_LabAssignment\javadoc.xml"/>
+			</section>
+			<section name="Day2">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day2\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day2\javadoc.xml"/>
+			</section>
+			<section name="Day4">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day4\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day4\javadoc.xml"/>
+			</section>
+			<section name="Day4_LabAssignment">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Programs\eclipse-workspace\Day4_LabAssignment\doc"/>
+				<item key="antpath" value="D:\Programs\eclipse-workspace\Day4_LabAssignment\javadoc.xml"/>
+			</section>
+		</section>
 	</section>
 </section>

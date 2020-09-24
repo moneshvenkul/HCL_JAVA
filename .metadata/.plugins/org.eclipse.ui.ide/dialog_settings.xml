@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Programs\eclipse-workspace\Hcl_Assignment2"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\Java_Training-master\Java_Training-master\Streams1"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assigments-java\Streams"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assigments-java\JAVA LAB ASSIGNMENTS\DAY 06"/>
