@@ -1,6 +1,6 @@
 package com.threads;
 
-public class DemoThread implements Runnable {
+public class DemoThread1 implements Runnable {
 
 	@Override
 	public void run() {
