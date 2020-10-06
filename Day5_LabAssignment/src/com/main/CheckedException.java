@@ -8,7 +8,7 @@ public class CheckedException {
 	public static void main(String[] args) {
 
 		try {
-			FileInputStream fileInputStream = new FileInputStream("E:\\Naveen.txt");
+			FileInputStream fileInputStream = new FileInputStream("D:\\Monesh.txt");
 
 			while (fileInputStream.available() > 0) {
 				int i = fileInputStream.read();
