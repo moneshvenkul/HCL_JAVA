@@ -1443,3 +1443,286 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag not
 2020-10-11 22:43:22,838 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-10-11 22:43:22,842 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-12 14:19:14,240 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-12 21:32:08,915 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-12 21:32:28,188 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:32:28,201 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:32:28,204 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:32:28,211 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:32:30,766 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:32:30,773 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:32:30,775 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:32:30,783 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:36:13,734 [Worker-26: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\pom.xml.
+2020-10-12 21:36:13,734 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\pom.xml.
+2020-10-12 21:36:14,508 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:14,514 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 21:36:14,516 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:14,523 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 21:36:15,137 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:15,143 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 21:36:15,145 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:15,150 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 21:36:16,556 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\pom.xml.
+2020-10-12 21:36:17,274 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:17,281 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 21:36:17,282 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:17,288 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 21:36:52,060 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-12 21:36:52,401 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\pom.xml.
+2020-10-12 21:36:52,501 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:springdemo:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringDemo\pom.xml.
+2020-10-12 21:36:52,599 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMVC:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringMVC\pom.xml.
+2020-10-12 21:36:54,156 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginApp/src/main/java
+2020-10-12 21:36:54,156 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginApp/src/test/java
+2020-10-12 21:36:56,686 [Worker-5: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginApp
+2020-10-12 21:36:56,690 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-10-12 21:36:57,029 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,037 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 21:36:57,039 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,047 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 21:36:57,047 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginApp
+2020-10-12 21:36:57,048 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginApp
+2020-10-12 21:36:57,052 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,114 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,123 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:36:57,125 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,133 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:36:57,382 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,389 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:36:57,390 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:36:57,395 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 21:41:31,688 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:41:31,763 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 21:41:31,765 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 21:41:31,769 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 22:07:32,568 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:07:32,576 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 22:07:32,577 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:07:32,583 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 22:12:44,039 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:12:44,048 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 22:12:44,049 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:12:44,058 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 22:13:07,680 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:07,686 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 22:13:07,687 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:07,693 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 22:13:19,846 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:19,852 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\main\resources
+2020-10-12 22:13:19,853 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:19,858 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java\MODE1-ASSIGNMENTS-java\LoginApp\src\test\resources
+2020-10-12 22:13:19,859 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginApp
+2020-10-12 22:13:19,859 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginApp
+2020-10-12 22:13:19,867 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:48,533 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringLoginApp\pom.xml.
+2020-10-12 22:13:49,520 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:49,525 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-12 22:13:49,527 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:49,534 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-12 22:13:50,188 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:50,195 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-12 22:13:50,196 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:13:50,203 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-12 22:26:53,619 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:26:53,624 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-12 22:26:53,626 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 22:26:53,634 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-12 23:34:31,810 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-12 23:34:36,792 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:36,804 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:34:36,807 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:36,814 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:34:39,189 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:39,197 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-12 23:34:39,199 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:39,207 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-12 23:34:39,256 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:39,268 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:34:39,270 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:34:39,279 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:36:27,582 [Worker-13: Creating project "SpringAssignment"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringAssignment:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringAssignment\pom.xml.
+2020-10-12 23:36:28,776 [Worker-13: Creating project "SpringAssignment"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringAssignment/src/main/java
+2020-10-12 23:36:28,777 [Worker-13: Creating project "SpringAssignment"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringAssignment/src/main/resources
+2020-10-12 23:36:28,777 [Worker-13: Creating project "SpringAssignment"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringAssignment/src/test/java
+2020-10-12 23:36:28,777 [Worker-13: Creating project "SpringAssignment"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringAssignment/src/test/resources
+2020-10-12 23:36:30,356 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:36:30,365 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:36:30,367 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:36:30,374 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:36:34,258 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:36:34,266 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:36:34,267 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:36:34,274 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:38:43,445 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:38:43,453 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:38:43,454 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:38:43,462 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:40:01,148 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:40:01,160 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:40:01,163 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:40:01,173 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:44:03,841 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringAssignment:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringAssignment\pom.xml.
+2020-10-12 23:44:05,948 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:44:05,953 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:44:05,955 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:44:05,960 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:44:05,960 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringAssignment
+2020-10-12 23:44:05,961 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringAssignment
+2020-10-12 23:44:05,965 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:44:42,161 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-12 23:44:42,468 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringAssignment:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringAssignment\pom.xml.
+2020-10-12 23:44:42,636 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringAssignment/src/main/java
+2020-10-12 23:44:42,637 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringAssignment/src/main/resources
+2020-10-12 23:44:42,637 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringAssignment/src/test/java
+2020-10-12 23:44:42,637 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringAssignment/src/test/resources
+2020-10-12 23:44:43,352 [Worker-29: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringAssignment
+2020-10-12 23:44:43,415 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-12 23:44:43,536 [Worker-28: Building Project SpringAssignment] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:44:43,541 [Worker-28: Building Project SpringAssignment] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:44:43,542 [Worker-28: Building Project SpringAssignment] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:44:43,547 [Worker-28: Building Project SpringAssignment] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:44:43,547 [Worker-28: Building Project SpringAssignment] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringAssignment
+2020-10-12 23:44:43,548 [Worker-28: Building Project SpringAssignment] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringAssignment
+2020-10-12 23:44:43,551 [Worker-28: Building Project SpringAssignment] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:46:07,188 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:46:07,220 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:46:07,222 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:46:07,228 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:46:38,694 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:46:38,701 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-12 23:46:38,702 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-12 23:46:38,709 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 07:58:46,505 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-13 07:59:35,335 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:35,354 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 07:59:35,804 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:35,807 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMvcExample:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\pom.xml.
+2020-10-13 07:59:35,821 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 07:59:38,666 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,673 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-13 07:59:38,674 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,680 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-13 07:59:38,832 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,839 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 07:59:38,840 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,846 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 07:59:38,951 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,957 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 07:59:38,958 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 07:59:38,964 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:00:15,611 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-13 08:00:16,281 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringAssignment:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringAssignment\pom.xml.
+2020-10-13 08:00:16,453 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hcl:LoginApp:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringLoginApp\pom.xml.
+2020-10-13 08:00:16,535 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMvcExample:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\pom.xml.
+2020-10-13 08:00:16,717 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMVC:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringMVC\pom.xml.
+2020-10-13 08:00:18,268 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcExample/src/main/java
+2020-10-13 08:00:18,269 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcExample/src/test/java
+2020-10-13 08:00:37,678 [Worker-6: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMvcExample
+2020-10-13 08:00:37,687 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 22 sec
+2020-10-13 08:00:38,017 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,024 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 08:00:38,026 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,030 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 08:00:38,108 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,115 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\main\resources
+2020-10-13 08:00:38,117 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,127 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringLoginApp\src\test\resources
+2020-10-13 08:00:38,238 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,346 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 08:00:38,347 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,356 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 08:00:38,615 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,643 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:00:38,645 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:00:38,654 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:00:38,654 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMvcExample
+2020-10-13 08:00:38,655 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMvcExample
+2020-10-13 08:00:38,667 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:03:29,311 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:03:29,330 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:03:29,334 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:03:29,354 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:04:10,720 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:10,725 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:04:10,727 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:10,732 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:04:18,334 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:18,341 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:04:18,342 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:18,348 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:04:34,661 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:34,675 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:04:34,678 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:34,692 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:04:45,416 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:45,432 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:04:45,434 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:04:45,450 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:05:07,316 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:05:07,324 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:05:07,326 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:05:07,333 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:05:29,361 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:05:29,367 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:05:29,368 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:05:29,374 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:12:50,289 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:12:50,305 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\main\resources
+2020-10-13 08:12:50,308 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:12:50,323 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\Java-Mode-1-Assignments-javaAssignments\Java-Mode-1-Assignments-javaAssignments\SpringMvcExample\src\test\resources
+2020-10-13 08:12:50,324 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMvcExample
+2020-10-13 08:12:50,324 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMvcExample
+2020-10-13 08:12:50,348 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:13:15,027 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-13 08:14:24,575 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gsrd:SpringmvcOne:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\pom.xml.
+2020-10-13 08:14:26,326 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:26,335 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\main\resources
+2020-10-13 08:14:26,337 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:26,343 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\test\resources
+2020-10-13 08:14:27,167 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gsrd:SpringmvcOne:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\pom.xml.
+2020-10-13 08:14:30,282 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:30,289 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\main\resources
+2020-10-13 08:14:30,290 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:30,298 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\test\resources
+2020-10-13 08:14:48,937 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-13 08:14:49,372 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gsrd:SpringmvcOne:0.0.1-SNAPSHOT @ C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\pom.xml.
+2020-10-13 08:14:49,796 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringmvcOne/src/main/java
+2020-10-13 08:14:49,797 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringmvcOne/src/test/java
+2020-10-13 08:14:50,859 [Worker-8: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringmvcOne
+2020-10-13 08:14:50,868 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-13 08:14:51,195 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:51,202 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\main\resources
+2020-10-13 08:14:51,203 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:14:51,210 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne\src\test\resources
+2020-10-13 08:14:51,210 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringmvcOne
+2020-10-13 08:14:51,211 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringmvcOne
+2020-10-13 08:14:51,214 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:39:00,838 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:39:00,845 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcExample\src\main\resources
+2020-10-13 08:39:00,847 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:39:00,855 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcExample\src\test\resources
+2020-10-13 08:45:23,027 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMvcExample:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringMvcAssignment\pom.xml.
+2020-10-13 08:45:23,254 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:23,259 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\main\resources
+2020-10-13 08:45:23,260 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:23,265 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\test\resources
+2020-10-13 08:45:24,533 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:24,539 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\main\resources
+2020-10-13 08:45:24,541 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:24,547 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\test\resources
+2020-10-13 08:45:37,718 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:37,724 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\main\resources
+2020-10-13 08:45:37,725 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:37,730 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\test\resources
+2020-10-13 08:45:54,847 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-13 08:45:55,129 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:SpringMvcExample:0.0.1-SNAPSHOT @ D:\Programs\eclipse-workspace\SpringMvcAssignment\pom.xml.
+2020-10-13 08:45:56,016 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcAssignment/src/main/java
+2020-10-13 08:45:56,016 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcAssignment/src/test/java
+2020-10-13 08:45:56,367 [Worker-28: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMvcAssignment
+2020-10-13 08:45:56,369 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-13 08:45:56,591 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:56,600 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\main\resources
+2020-10-13 08:45:56,602 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-13 08:45:56,610 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Programs\eclipse-workspace\SpringMvcAssignment\src\test\resources
+2020-10-13 08:45:56,611 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMvcAssignment
+2020-10-13 08:45:56,611 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMvcAssignment
+2020-10-13 08:45:56,614 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
