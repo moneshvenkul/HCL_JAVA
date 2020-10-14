@@ -53,6 +53,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="HibernateDemo"/>
 			<item value="SpringAssignment"/>
 			<item value="SpringMVC"/>
 			<item value="springdemo"/>

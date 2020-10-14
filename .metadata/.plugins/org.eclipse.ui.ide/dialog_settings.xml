@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\mvven\Downloads\Compressed\Java_Training-master\Java_Training-master\SpringHibernateDemo"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\servlet-tutorial-master\servlet-tutorial-master\login-jsp-servlet-jdbc-example"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\loginservlet"/>
 			<item value="C:\Users\mvven\Downloads\Compressed\MODE1-ASSIGNMENTS-java_2\MODE1-ASSIGNMENTS-java\SpringmvcOne"/>
