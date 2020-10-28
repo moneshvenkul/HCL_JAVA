@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Programs\eclipse-workspace\test"/>
+			<item value="D:\Programs\eclipse-workspace\PetPeer"/>
 			<item value="D:\Programs\eclipse-workspace\springdemo"/>
 			<item value="D:\HCLUseCase"/>
 		</list>
@@ -46,13 +48,21 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com"/>
-			<item value="com.venkul"/>
 			<item value="com.monesh"/>
+			<item value="com"/>
+			<item value="com.PetPeer"/>
+			<item value="com.venkul"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="DEmo1"/>
+			<item value="Demo"/>
+			<item value="Project"/>
+			<item value="Final_Project"/>
+			<item value="test"/>
+			<item value="project"/>
+			<item value="PetPeersProject"/>
 			<item value="HibernateDemo"/>
 			<item value="SpringAssignment"/>
 			<item value="SpringMVC"/>
@@ -83,5 +93,11 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="71"/>
 	</section>
 </section>

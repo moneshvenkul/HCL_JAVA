@@ -16,7 +16,7 @@ public class MySqlConnector {
 			String driverName = "com.mysql.cj.jdbc.Driver";
 			String url = "jdbc:mysql://localhost:3307/hiberdemo?autoReconnect=true&useSSL=false";
 			Class.forName(driverName);
-			con = DriverManager.getConnection(url, "root", "root");
+			con = DriverManager.getConnection(url, "root", "password");
 			System.out.println(con != null ? "connection established" : "connection failed");
 
 		} catch (ClassNotFoundException cnfe) {
